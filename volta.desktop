@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=volta
+Exec=/home/pi/volta/volta-start.sh
+Terminal=false 
+Categories=X-Debian-Applications-JMRI;
